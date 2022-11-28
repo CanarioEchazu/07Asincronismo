@@ -1,0 +1,25 @@
+{
+  "name": "07asincronismo",
+  "version": "1.0.0",
+  "description": "Asincronismo y Promesas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CanarioEchazu/07Asincronismo.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Dario Echazu darioechazu@hotmail.com",
+  "license": " MIT",
+  "bugs": {
+    "url": "https://github.com/CanarioEchazu/07Asincronismo/issues"
+  },
+  "homepage": "https://github.com/CanarioEchazu/07Asincronismo#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
